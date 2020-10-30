@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-example-app-5d289": {
+      "hosting": {
+        "angular-example-app": [
+          "angular-example-app-5d289"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-example-app-5d289"
+  }
+}
